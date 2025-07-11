@@ -39,11 +39,3 @@ Crafting elegant solutions with clean code and passionate problem-solving. From 
 </div>
 
 ---
-
-<div align="center">
-
-### 🐍 GitHub Contributions Snake Game
-
-![Snake animation](dist/github-contribution-grid-snake.svg)
-
-</div>
